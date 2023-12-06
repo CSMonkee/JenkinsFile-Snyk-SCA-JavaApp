@@ -9,7 +9,7 @@ pipeline {
     // Checkout code from Git repository
     stage('Checkout') {
       steps {
-        git 'https://github.com/your-repo/your-java-app.git'
+        git 'https://github.com/https://github.com/CSMonkee/WebGoat.git'
       }
     }
     
